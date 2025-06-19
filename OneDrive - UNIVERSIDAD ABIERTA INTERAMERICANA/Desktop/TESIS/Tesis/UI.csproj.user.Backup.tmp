@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FormBackRestore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormBitacora.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormDahboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormCargarCompra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormCargarStock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormCargarVenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormCompra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormControlUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormCrearUs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormPermisos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormProveedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormRol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormStock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormStockDisponible.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormVendedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormVentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ImputarCobro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ImputarPago.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="login.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
