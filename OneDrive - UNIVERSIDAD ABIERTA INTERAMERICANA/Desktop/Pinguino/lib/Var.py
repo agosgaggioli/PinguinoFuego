@@ -1,0 +1,6 @@
+WIDTH = 800
+HEIGHT=600
+
+PUNTAJE =0
+VIDA= 100
+    
